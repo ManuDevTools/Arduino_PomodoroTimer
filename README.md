@@ -86,9 +86,6 @@ Feel free to use it and modify it as you need.
 If you've found it useful, please consider star the project or a fork.
 Thank you!
 
-<div align="center">
-<img src="Images/Planes.png" alt="Logo" width="640" height="480">
-</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
